@@ -75,7 +75,7 @@ Once deployed, anyone who finds your URL can use it on your API key. Each visito
 ## Ideas to extend it
 
 - Add today's forecast with [Weather](https://apiverve.com/marketplace/weatherforecast) so people can plan a run or a walk.
-- Show the pollen and weather alerts for the area with [Weather Alerts](https://apiverve.com/marketplace/weatheralerts).
+- Warn about severe weather in the area with [Weather Alerts](https://apiverve.com/marketplace/weatheralerts).
 - Look up air quality for your visitor automatically with [IP Lookup](https://apiverve.com/marketplace/iplookup).
 
 ## API reference
